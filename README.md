@@ -27,6 +27,6 @@ python main.py --dataset computers --epochs 500 --lr 1.5e-3 --weight_decay 1e-3 
 ```
 
 ## Results
-model	|Cora	|CiteSeer	|PubMed|Amazon Photo		|Computers
+model	|Cora	|CiteSeer	|PubMed|Amazon Photo		|Amazon Computers
 ------ | -----  |----------- |---|--- | -----  |
 AM-NDC|	84.1% |	74.8%|	82.1%|93.3%|	83.4% |
